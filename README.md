@@ -87,7 +87,7 @@ JWT_SECRET=your_jwt_secret
 ```
 
 ## ⚙️ Environment Setup
-
+```
 ▶️ Run Locally
 1️⃣ Clone the Repository
 
@@ -106,6 +106,6 @@ npm run dev
 npm install recharts
 npm install -D tailwindcss @tailwindcss/postcss autoprefixed
 npm install vite
-
+```
 Frontend: http://localhost:5173
 Backend: http://localhost:5000
