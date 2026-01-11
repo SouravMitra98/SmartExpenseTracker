@@ -83,7 +83,10 @@ Create a `.env` file in the **backend** directory:
 ```env
 PORT=5000
 MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
+JWT_SECRET=your_jwt_secret 
+```
+
+## ⚙️ Environment Setup
 
 ▶️ Run Locally
 1️⃣ Clone the Repository
