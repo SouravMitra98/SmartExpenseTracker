@@ -29,8 +29,7 @@ Built using **React, Tailwind CSS, Node.js, Express, MongoDB**, and **JWT authen
 
 ### 📊 Dashboard Overview
 ![Dashboard](screenshots/3.png)
-
-(screenshots/5.png)
+![Dashboard](screenshots/5.png)
 
 ### ➕ Add Expense
 ![Add Expense](screenshots/4.png)
